@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Otp Example</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="textview">TextView</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="email">Email</string>
+</resources>
